@@ -1,0 +1,6 @@
+Config = {
+    namescript = "VPAFV hub",--Tên Script
+    logoscript = "118098399814648",--ID Logo Script
+    tacgia = "Owner : haz3mn_1291 | Co-Owner : khangyeuai190"-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
